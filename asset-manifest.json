@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.651df066.css",
-    "main.js": "/Portfolio/static/js/main.448cf38c.js",
-    "static/js/488.be6ff623.chunk.js": "/Portfolio/static/js/488.be6ff623.chunk.js",
-    "static/media/wipro.png": "/Portfolio/static/media/wipro.853fdae7103b40ff1f7c.png",
-    "static/media/profilepic.jpeg": "./static/media/profilepic.3efac900b0bed04c263e.jpeg",
-    "static/media/react.png": "/Portfolio/static/media/react.2f2532db663fd5ec5f95.png",
-    "static/media/contactimage.png": "/static/media/contactimage.ff3b6deb75db3a3c08b8.png",
-    "static/media/kusalava.png": "/Portfolio/static/media/kusalava.af3353af3ec4cd0e8710.png",
-    "static/media/mysql.png": "/Portfolio/static/media/mysql.c10b5bc47b47f99e1ff1.png",
-    "static/media/flask.png": "/Portfolio/static/media/flask.a513ea1d978a3bef2c16.png",
-    "static/media/diabetes.png": "/Portfolio/static/media/diabetes.7274b945afddba6cc0f6.png",
-    "static/media/movies.png": "/Portfolio/static/media/movies.9a1dfcd92c3a3d342d04.png",
+    "main.css": "/portfolio-website/static/css/main.651df066.css",
+    "main.js": "/portfolio-website/static/js/main.b8ed91cd.js",
+    "static/js/488.be6ff623.chunk.js": "/portfolio-website/static/js/488.be6ff623.chunk.js",
+    "static/media/wipro.png": "/portfolio-website/static/media/wipro.853fdae7103b40ff1f7c.png",
+    "static/media/profilepic.jpeg": "/portfolio-website/static/media/profilepic.3efac900b0bed04c263e.jpeg",
+    "static/media/react.png": "/portfolio-website/static/media/react.2f2532db663fd5ec5f95.png",
+    "static/media/contactimage.png": "/portfolio-website/static/media/contactimage.ff3b6deb75db3a3c08b8.png",
+    "static/media/kusalava.png": "/portfolio-website/static/media/kusalava.af3353af3ec4cd0e8710.png",
+    "static/media/mysql.png": "/portfolio-website/static/media/mysql.c10b5bc47b47f99e1ff1.png",
+    "static/media/flask.png": "/portfolio-website/static/media/flask.a513ea1d978a3bef2c16.png",
+    "static/media/diabetes.png": "/portfolio-website/static/media/diabetes.7274b945afddba6cc0f6.png",
+    "static/media/movies.png": "/portfolio-website/static/media/movies.9a1dfcd92c3a3d342d04.png",
     "static/media/awscloudpractitioner.png": "/portfolio-website/static/media/awscloudpractitioner.04f92f7ef992d6498205.png",
-    "static/media/java.png": "/Portfolio/static/media/java.5d5cffa04d820ba0644c.png",
-    "static/media/javascript.png": "/Portfolio/static/media/javascript.cf7522f436d6510da302.png",
-    "static/media/awsaipractitioner.png": "/Portfolio/static/media/awsaipractitioner.c382b9cea706c7531f2e.png",
-    "static/media/python.png": "/Portfolio/static/media/python.f7f12e1bf59e577656a2.png",
-    "static/media/aws.png": "/Portfolio/static/media/aws.a59d5ca6b3b99d8d7b61.png",
-    "index.html": "/Portfolio/index.html",
-    "main.651df066.css.map": "/Portfolio/static/css/main.651df066.css.map",
-    "main.448cf38c.js.map": "/Portfolio/static/js/main.448cf38c.js.map",
-    "488.be6ff623.chunk.js.map": "/Portfolio/static/js/488.be6ff623.chunk.js.map"
+    "static/media/java.png": "/portfolio-website/static/media/java.5d5cffa04d820ba0644c.png",
+    "static/media/javascript.png": "/portfolio-website/static/media/javascript.cf7522f436d6510da302.png",
+    "static/media/awsaipractitioner.png": "/portfolio-website/static/media/awsaipractitioner.c382b9cea706c7531f2e.png",
+    "static/media/python.png": "/portfolio-website/static/media/python.f7f12e1bf59e577656a2.png",
+    "static/media/aws.png": "/portfolio-website/static/media/aws.a59d5ca6b3b99d8d7b61.png",
+    "index.html": "/portfolio-website/index.html",
+    "main.651df066.css.map": "/portfolio-website/static/css/main.651df066.css.map",
+    "main.b8ed91cd.js.map": "/portfolio-website/static/js/main.b8ed91cd.js.map",
+    "488.be6ff623.chunk.js.map": "/portfolio-website/static/js/488.be6ff623.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.651df066.css",
-    "static/js/main.448cf38c.js"
+    "static/js/main.b8ed91cd.js"
   ]
 }
